@@ -1,0 +1,25 @@
+# Ignore Gradle build output
+**/build/
+**/out/
+
+# Ignore IntelliJ IDEA project files
+.idea/
+*.iml
+
+# Ignore Gradle-specific files
+.gradle/
+build/
+
+# Ignore logs
+*.log
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Kotlin/Java compiled class files
+*.class
+
+# Ignore local properties
+local.properties
+
